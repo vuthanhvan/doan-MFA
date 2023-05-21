@@ -1,0 +1,29 @@
+{
+  "name": "vpauth-vue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.13",
+    "@heroicons/vue": "^2.0.18",
+    "@vue-hero-icons/outline": "^1.7.2",
+    "axios": "^1.4.0",
+    "pinia": "^2.0.36",
+    "vee-validate": "^4.9.4",
+    "vue": "^3.3.2",
+    "vue-router": "^4.2.0",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.5"
+  }
+}
